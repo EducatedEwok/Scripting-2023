@@ -1,0 +1,53 @@
+https://www.w3schools.com/css/css_float.asp
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  float: left;
+  width:33%;
+  box-sizing:border-box;
+  padding: 15px; 
+  text-align:center;
+}
+div img{
+   max-width:100%;
+}
+.div1 {
+  background: red;
+}
+
+.div2 {
+  background: yellow;
+}
+
+.div3 {
+  background: green;
+}
+
+#clearIt{
+clear:both;
+}
+
+</style>
+</head>
+<body>
+
+<h2>Float Next To Each Other</h2>
+
+<p>In this example, the three divs will float next to each other.</p>
+<section>
+<div class="div1">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg">
+   <p>Div 1</p>
+</div>
+<div class="div2">Div 2</div>
+<div class="div3">Div 3</div>
+
+<p id="clearIt">This is something else</p>
+
+</section>
+</body>
+</html>
+
+
