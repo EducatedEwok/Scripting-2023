@@ -1,0 +1,43 @@
+h1, h5{
+    font-family: 'League Spartan', sans-serif;
+}
+p{
+    font-family: 'Libre Baskerville', serif;
+}
+#masthead{
+    background-image: url("../images/backgrounds/banner.JPG");
+    background-size: cover;
+    background-position: center;
+
+
+}
+#about{
+    background-color: #F4EBD9;
+}
+.bg-darkGrey{
+    background-color:#333132;
+}
+.bg-scallop{
+    background-image: url(../images/backgrounds/scallop.jpg);
+    background-repeat: repeat-x; 
+    background-color:#333132;
+}
+#nav {
+ 
+    background-color: #483D3f;
+    color:#F96102;
+    text-decoration:underline
+}
+#bio{
+    background-color: #77726E;
+}
+#portfolio{
+    background-color: #A39A92;
+}
+.orangeHeading{
+    color:#F96102;
+    text-decoration:underline;
+}
+
+
+
