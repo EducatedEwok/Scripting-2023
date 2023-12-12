@@ -1,0 +1,27 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'League Spartan', sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+#input {
+    background-color: gray;
+    color: white;
+}
+
+#output {
+    background-color: gray;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
